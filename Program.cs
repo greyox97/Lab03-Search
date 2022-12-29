@@ -108,7 +108,7 @@
             Console.WriteLine("Porcentaje de búsqueda con éxito: " + ((buscados - exitos)*2) + "%");
             Console.WriteLine("Arreglo ordenado: ");
             for(int i = 0; i < C.Length; i++){
-                Console.Write(B[i] + " ");
+                Console.Write(C[i] + " ");
             }
         }
     }
